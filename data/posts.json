@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "authorId": "1",
+    "title": "Hello World",
+    "description": "This is my first post",
+    "likes": 10,
+    "comments": [
+      {
+        "id": "1",
+        "authorId": "1",
+        "text": "Great post!",
+        "likes": 5,
+        "nestedComments": [],
+        "createdAt": "2024-01-01T00:00:00Z"
+      }
+    ],
+    "createdAt": "2024-01-01T00:00:00Z"
+  },
+  {
+    "id": "a1949325-1dd2-4b6c-8991-4697915d746b",
+    "title": "My First Post",
+    "description": "Hello world, this is my first post!",
+    "likes": 0,
+    "comments": [],
+    "createdAt": "2024-11-05T08:25:28.497Z"
+  },
+  {
+    "id": "caba2446-44c3-4f45-a12f-41000f9a90d6",
+    "title": "My First Post",
+    "description": "Hello world, this is my first post!",
+    "likes": 0,
+    "comments": [],
+    "createdAt": "2024-11-05T09:06:36.689Z"
+  },
+  {
+    "id": "571f5eb8-9812-42f8-913d-19bf3cc5b002",
+    "title": "My First Post",
+    "description": "Hello world, this is my first post!",
+    "likes": 0,
+    "comments": [],
+    "createdAt": "2024-11-12T08:43:08.098Z"
+  }
+]
